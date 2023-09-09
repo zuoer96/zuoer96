@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zuoer96&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Coder 👋
-- 简体中文(zh-cn) | [English(en-us)](/en-us-README.md)
+- 简体中文(zh-cn) | [English(en)](/README-en.md)
 - Java后端开发工程师
 - [个人技术博客](https://docs.nbchen.com/)
 - 还可以在这些地方找到我：
