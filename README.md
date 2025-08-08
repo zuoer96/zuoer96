@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Coder 👋
 - 简体中文(zh-cn) | [English(en)](/README-en.md)
 - Java后端开发工程师
-- [个人技术博客](https://docs.nbchen.com/)
+- [个人技术博客](https://zuoer96.github.io/) 
 - 还可以在这些地方找到我：
 - [GitHub](https://github.com/zuoer96) | 
 
